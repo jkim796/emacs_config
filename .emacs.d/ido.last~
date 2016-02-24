@@ -1,0 +1,102 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/joon/tabla/model-compiler/ml/" . "python/")
+ ("/Users/joon/tabla/model-compiler/" . "ml/")
+ ("/Users/joon/tabla/" . "model-compiler/")
+ ("/Users/joon/tabla.design/" . "tabla-parser/")
+ ("/Users/joon/.emacs.d/" . "color-theme-6.6.0/")
+ ("/Users/joon/practice-code/" . "python/")
+ ("/Users/joon/" . "MNIST_data/")
+ ("/Users/" . "joon/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/joon/MNIST_data/"
+ "/Users/joon/tabla/model-compiler/ml/tabla/"
+ "/Users/joon/practice-code/c/"
+ "/Users/joon/tabla/model-compiler/ml/python/"
+ "/Users/joon/practice-code/python/"
+ "/Users/joon/"
+ "/Users/joon/tabla/model-compiler/serial/"
+ "/Users/joon/tabla.design/tabla-parser/"
+ "/Users/joon/tabla.design/tabla-parser/ml/data/"
+ "/Users/joon/tabla/model-compiler/"
+ "/Users/joon/.emacs.d/color-theme-6.6.0/"
+ "/Users/joon/.emacs.d/python-mode.el-6.2.2/"
+ "/Users/joon/.emacs.d/settings/"
+ "/Users/joon/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "t10k-images-idx3-ubyte.gz"
+ "recommender.t"
+ "classification.t"
+ "backpropagation.t"
+ "logistic.t"
+ "main.c"
+ "linear.py"
+ "plot.py"
+ ".emacs"
+ "housepricedata.json"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/joon/MNIST_data/" (22220 56312 0 0) "train-labels-idx1-ubyte.gz" "train-images-idx3-ubyte.gz" "t10k-labels-idx1-ubyte.gz" "t10k-images-idx3-ubyte.gz" "../" "./")
+
+ ("/Users/joon/" (22220 56305 0 0) "wireshark-2.0.0/" "wedding.pdf" "VirtualBox VMs/" "TowerDraft.docx" "tmep/" "tablasite7.zip" "tablasite6.zip" "tabla_bnf.txt" "tabla.design/" "tabla-site/" "tabla/" "surface3d_demo.py" "summary.txt" "single-cycle-processor/" "Public/" "Project2/" "programming" "practice-code/" "pip-7.1.0/" "Pictures/" "oasys.log" "notes/" "neural/" "my-site/" "Music/" "moz.jpg" "Movies/" "MNIST_data/" "mnist.py~" "mnist.py" "microcode.xml" "mail/" "machine-learning-ex1.zip" "machine-learning-ex1/" "LMC4702PeerReview.docx" "LinkedListProblems.pdf" "linear_regression_one.jpeg" "Library/" "letter.txt" "LC-2200-16.circ" "JoonKimAssembler/" "ibtsa.log" "ibt_application.log" "hardik_sop_Stanford.pdf" "fellowship.acm.history/" "emacs-24.5/" "em-4.0.15-lt/" "Downloads/" "Documents/" "dnn_weaver.paper/" "dnn.pdf" "Desktop/" "cs4290prj2/" "cs3220project4/" "code.jpg" "clean/" "axbench.paper/" "assembler/" "Applications/" "analytics.paper/" "act-lab.org/" "__MACOSX/" "4702TowersubmissionPeerReviewinstructions.docx" "2200prj1/" "150736.pdf" "1486076_1297746426918425_4084832555144874457_o.jpg" ".viminfo" ".Trash/" ".sh_history" ".python_history" ".python27_compiled/" ".pinerc" ".octave_hist" ".matplotlib/" ".lesshst" ".ipython/" ".idlerc/" ".gitconfig" ".gem/" ".emacs~" ".emacs.d/" ".emacs" ".DS_Store" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc~" ".bashrc" ".bash_profile~" ".bash_profile" ".bash_history" "../" "./")
+
+ ("/Users/joon/practice-code/python/" (22214 11211 0 0) "stuff.py~" "stuff.py" "plot.py~" "plot.py" "ex1data2.txt" "ex1data1.txt" ".#plot.py" "#plot.py#" "../" "./")
+
+ ("/Users/joon/.emacs.d/" (22214 8793 0 0) "url/" "tutorial/" "settings/" "relative-line-numbers.el~" "relative-line/" "python-mode.el-6.2.2/" "ido.last~" "ido.last" "highlight-current-line/" "elpa/" "color-theme-6.6.0/" "bookmarks" "auto-save-list/" "../" "./")
+
+ ("/Users/joon/tabla/model-compiler/ml/python/" (22214 8478 0 0) "somedata.json" "mlinterface.py~" "mlinterface.pyc" "mlinterface.py" "logistic.py" "linear.py~" "linear.py" "housepricedata.json" "fubar.json~" "fubar.json" "classification.py" "__pycache__/" "../" "./")
+
+ ("/Users/joon/tabla.design/tabla-parser/ml/data/" (22211 62341 0 0) "housepricedata.json" "../" "./")
+
+ ("/Users/joon/tabla/model-compiler/serial/" (22186 27416 0 0) "DFGNode.py" "DataFlowGraph.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/joon/tabla/model-compiler/ml/tabla/" (22212 54301 0 0) "test.t" "recommender.t" "logistic.t" "linear.t" "classification.t~" "classification.t" "backpropagation.t" "../" "./")
+
+ ("/Users/joon/tabla.design/tabla-parser/ml/" (22211 58243 0 0) "test.t" "recommender.t" "python/" "logistic.t" "linear.t" "data/" "classification.t" "backpropagation.t" "../" "./")
+
+ ("/Users/joon/tabla.design/tabla-parser/" (22211 51347 0 0) "treewalker.py" "tablaRankTestLinear.dot" "TablaParser.py" "TablaListener.py" "TablaLexer.tokens" "TablaLexer.py" "Tabla.tokens" "Tabla.g" "tabla.dot" "ssa.txt" "serial/" "Scheduler.py" "schedule.json" "ParserRuleContext.py" "ml/" "main.py" "DotGenerator.py" "documentation.txt" "DFGGenerator.py" "dfg.json" "debug/" "clean.sh" "__pycache__/" ".Scheduler.py.swp" ".gitignore" ".DS_Store" ".dfg.json.swp" "../" "./")
+
+ ("/Users/joon/tabla/model-compiler/" (22211 39400 0 0) "treewalker.py" "TablaParser.py" "TablaListener.py" "TablaLexer.tokens" "TablaLexer.py" "Tabla.tokens" "Tabla.g" "ssa.txt" "serial/" "Scheduler.py" "ParserRuleContext.py" "ml/" "main.py" "jpegs/" "DotGenerator.py" "documentation.txt" "DFGGenerator.py" "debug/" "__pycache__/" "../" "./")
+
+ ("/Users/joon/tabla/model-compiler/ml/" (22211 39120 0 0) "tabla/" "python/" "../" "./")
+
+ ("/Users/joon/tabla/model-compiler/python-interface/" (22211 38796 0 0) "../" "./")
+
+ ("/Users/joon/tabla/model-compiler/sample-code/" (22186 26339 0 0) "test.t" "recommender.t" "logistic.t" "linear.t" "classification.t" "backpropagation.t" "../" "./")
+
+ ("/Users/joon/.emacs.d/color-theme-6.6.0/" (17529 43612 0 0) "themes/" "README" "Makefile.defs" "Makefile" "HACKING" "COPYING" "configure-stamp" "color-theme.el" "color-theme-autoloads.in" "color-theme-autoloads.elc" "color-theme-autoloads.el" "ChangeLog" "build-stamp" "BUGS" "AUTHORS" "../" "./")
+
+ ("/Users/joon/tabla/" (22203 35035 0 0) "README.md" "model-compiler/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/joon/tabla.design/" (22132 27007 0 0) "tabla-parser/" "nnsp.ut/" "hw.imp/" "documentation/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/joon/.emacs.d/python-mode.el-6.2.2/" (22209 615 0 0) "test/" "setup.py" "run-travis-ci.sh" "README_DEVEL.org" "python-mode.el~" "python-mode.el" "PKG-INFO" "NEWS" "LICENSE" "INSTALL-INFO-FILES" "INSTALL" "doc/" "completion/" "byte-compile-directory.sh" "../" "./")
+
+ ("/Users/joon/.emacs.d/settings/" (20568 5234 0 0) "window-settings.el" "ui-settings.el" "text-settings.el" "python-settings.el" "ido-settings.el" "fill-column-indicator-settings.el" "cursor-settings.el" "color-theme-settings.el" "auto-complete-settings.el" "../" "./")
+
+ ("/Users/joon/practice-code/c/" (22145 23276 0 0) "temp.c" "stack.c~" "stack.c" "main.c~" "main.c" "hello.c~" "hello.c" "getop.c~" "getop.c" "getch.c" "filecopy.c" "count.c" "clean.sh" "callbyval.c" "calc.h.gch" "calc.h" "alloc.c~" "alloc.c" "a.out" "../" "./")
+
+ ("/Users/joon/practice-code/" (22079 38430 0 0) "python/" "misc/" "java/" "hola.asm" "c++/" "c/" "bash/" ".DS_Store" "../" "./")
+
+ ("/Users/" (21930 30340 0 0) "Shared/" "joon/" "Guest/" ".localized" "../" "./")
+
+ ("/home/" (22144 28441 980113 0) "../" "./")
+
+ ("/usr/" (22003 149 0 0) "X11R6/" "X11/" "texbin/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("/usr/include/" (22022 48219 0 0) "zlib.h" "zconf.h" "Xplugin.h" "xpc/" "xlocale.h" "xlocale/" "xattr_flags.h" "xar/" "wordexp.h" "wctype.h" "wchar.h" "vproc.h" "vis.h" "vfs/" "uuid/" "utmpx.h" "utmp.h" "utime.h" "util.h" "unwind.h" "unistd.h" "unctrl.h" "ulimit.h" "ucontext.h" "tzfile.h" "ttyent.h" "tkPlatDecls.h" "tkMacOSX.h" "tkIntXlibDecls.h" "tkDecls.h" "tk.h" "timeconv.h" "time.h" "tidy/" "tic.h" "termios.h" "termcap.h" "term_entry.h" "term.h" "tclTomMathDecls.h" "tclTomMath.h" "tclPlatDecls.h" "tclDecls.h" "tcl.h" "TargetConditionals.h" "tar.h" "syslog.h" "sysexits.h" "sys/" "struct.h" "strings.h" "stringlist.h" "string.h" "strhash.h" "stdlib.h" "stdio.h" "stdint.h" "stddef.h" "stdbool.h" "standards.h" "stab.h" "sqlite3ext.h" "sqlite3.h" "spawn.h" "slapi-plugin.h" "simd/" "signal.h" "sgtty.h" "setjmp.h" "servers/" "semaphore.h" "security/" "secure/" "search.h" "sched.h" "sasl/" "sandbox.h" "runetype.h" "rune.h" "rpcsvc/" "rpc/" "resolv.h" "removefile.h" "regex.h" "reboot2.h" "readpassphrase.h" "readline/" "ranlib.h" "python2.7/" "python2.6/" "pwd.h" "pthread_spis.h" "pthread_impl.h" "pthread.h" "pthread/" "protocols/" "profile.h" "printf.h" "printerdb.h" "poll.h" "php/" "pexpert/" "pcap.h" "pcap-namedb.h" "pcap-bpf.h" "pcap/" "paths.h" "panel.h" "os/" "openssl/" "odmodule/" "objc/" "ntsid.h" "NSSystemDirectories.h" "notify_keys.h" "notify.h" "nlist.h" "nl_types.h" "nfs/" "netkey/" "netinet6/" "netinet/" "netdb.h" "net-snmp/" "net/" "ndbm.h" "ncurses_dll.h" "ncurses.h" "nc_tparm.h" "nameser.h" "mpool.h" "monitor.h" "monetary.h" "module.map" "miscfs/" "menu.h" "memory.h" "membership.h" "math.h" "malloc/" "MacTypes.h" "machine/" "mach_debug/" "mach-o/" "mach/" "locale.h" "localcharset.h" "limits.h" "libxslt/" "libxml2/" "libunwind.h" "libproc.h" "libkern/" "libgen.h" "libexslt/" "libcharset.h" "libc.h" "ldif.h" "ldap_utf8.h" "ldap_schema.h" "ldap_features.h" "ldap_cdefs.h" "ldap.h" "lber_types.h" "lber.h" "launch.h" "langinfo.h" "krb5.h" "krb5/" "kern/" "iso646.h" "inttypes.h" "ifaddrs.h" "iconv.h" "i386/" "histedit.h" "hfs/" "gssapi.h" "gssapi/" "grp.h" "glob.h" "getopt.h" "gethostuuid.h" "get_compat.h" "ftw.h" "fts.h" "fstab.h" "fsproperties.h" "form.h" "fnmatch.h" "fmtmsg.h" "ffi/" "fenv.h" "fcntl.h" "expat_external.h" "expat.h" "execinfo.h" "eti.h" "errno.h" "err.h" "editline/" "dtrace.h" "dns_util.h" "dns_sd.h" "dns.h" "dlfcn.h" "dispatch/" "disktab.h" "dirent.h" "device/" "default_pager/" "db.h" "cxxabi.h" "curses.h" "curl/" "cups/" "ctype.h" "crt_externs.h" "cpio.h" "copyfile.h" "ConditionalMacros.h" "complex.h" "CommonCrypto/" "com_err.h" "checkint.h" "cache_callbacks.h" "cache.h" "c++/" "bzlib.h" "bsm/" "bootstrap.h" "bootparams.h" "Block.h" "bitstring.h" "bank/" "AvailabilityMacros.h" "AvailabilityInternal.h" "Availability.h" "atm/" "AssertMacros.h" "assert.h" "asl.h" "arpa/" "architecture/" "ar.h" "apr-1/" "apache2/" "alloca.h" "aliasdb.h" "aio.h" "_xlocale.h" "_wctype.h" "_types.h" "_types/" "_locale.h" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
